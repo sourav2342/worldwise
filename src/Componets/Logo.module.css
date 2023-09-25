@@ -1,0 +1,10 @@
+.logo {
+  height: 5.2rem;
+}
+
+.home{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap:1rem;
+}
